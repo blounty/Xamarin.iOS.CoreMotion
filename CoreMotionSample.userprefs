@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.Alex Blount’s iPad" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoreMotionSample/AltimeterViewController.cs">
+    <Files>
+      <File FileName="CoreMotionSample/AltimeterViewController.cs" Line="1" Column="1" />
+      <File FileName="CoreMotionSample/FloorsViewController.cs" Line="70" Column="70" />
+      <File FileName="CoreMotionSample/PedometerViewController.cs" Line="4" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
